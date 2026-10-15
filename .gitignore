@@ -5,3 +5,8 @@ __pycache__/
 venv/
 .venv/
 *.egg-info/
+data/vector_store/
+data/policies/*.pdf
+data/bills/*.pdf
+!data/policies/.gitkeep
+!data/bills/.gitkeep
